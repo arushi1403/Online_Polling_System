@@ -1,0 +1,14 @@
+SMAP
+NewRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 NewRegistration.jsp
+NewRegistration.jsp
++ 1 MasterPage.jsp
+MasterPage.jsp
+*L
+1,6:51
+1#1,19:56
+6#0,19:74
+*E

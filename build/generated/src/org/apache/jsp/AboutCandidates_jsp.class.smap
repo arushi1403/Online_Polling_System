@@ -1,0 +1,14 @@
+SMAP
+AboutCandidates_jsp.java
+JSP
+*S JSP
+*F
++ 0 AboutCandidates.jsp
+AboutCandidates.jsp
++ 1 MasterPage.jsp
+MasterPage.jsp
+*L
+1,4:50
+1#1,19:53
+4#0,26:71
+*E
